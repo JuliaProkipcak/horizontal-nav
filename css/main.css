@@ -1,9 +1,10 @@
 html {
   background-color: #fff;
   line-height: 1.5;
+  box-sizing: normal;
 }
 
 h1 {
   color: #fff;
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", sans-serif;
 }
