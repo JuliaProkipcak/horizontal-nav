@@ -26,3 +26,28 @@ ul {
   padding-left: 0;
   margin: 0;
 }
+
+a {
+  color: #fff;
+  text-decoration: none;
+  background-color: #713837;
+  border-radius: .3em;
+  display: inline-block;
+  margin-top: .3em;
+  padding: .6em;
+}
+
+.box {
+  background-color: #79756f;
+  border-bottom: 3px;
+  border-top: 3px;
+  border-style: solid;
+  border-color: #595652;
+  padding: .75em;
+}
+
+a:hover {
+  border-radius: .3em;
+  border-color: #f33;
+  background-color: #f33;
+}
