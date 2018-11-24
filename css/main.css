@@ -37,6 +37,10 @@ a {
   padding: .6em;
 }
 
+body {
+  margin: 0;
+}
+
 .box {
   background-color: #79756f;
   border-bottom: 3px;
